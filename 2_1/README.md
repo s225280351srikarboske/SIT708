@@ -28,7 +28,7 @@ This is an Android application developed using Java in Android Studio for SIT708
 ├── build.gradle.kts
 ├── settings.gradle.kts
 └── gradlew / gradlew.bat
-
+```
 ---
 
 ## ⚙️ How It Works
